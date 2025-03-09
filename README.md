@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Femi @thefemikolawole
-- 👀 I’m interested in cloud, DevOps, Infrastructure and security
-- 🌱 I’m currently learning git, dockers, cloud and devops tools
+- 👀 Senior Cloud Engineer
+- 🌱 DevOps, Cloud Architect, Cloud Security
 - 💞️ I’m looking to collaborate on small projects that will help me learn
-- 📫 I can be reach on my email address olu.kolawole@outlook.coom
+- 📫 theolukolawole@gmail.com
 
 <!---
 thefemikolawole/thefemikolawole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
