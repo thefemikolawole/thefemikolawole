@@ -1,7 +1,7 @@
-- 👋 The Femstar!!
+- 👋 Olu Kolawole
 - 👀 Senior Cloud Engineer
 - 🌱 DevOps, Cloud Architect, Cloud Security
-- 💞️ I’m looking to collaborate on small projects that will help me learn
+- 💞️ I available for collaboration on small projects
 - 📫 theolukolawole@gmail.com
 
 <!---
