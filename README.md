@@ -1,4 +1,4 @@
-- 👋 Olu Kolawole
+- 👋 Femi Kolawole
 - 👀 Senior Cloud Engineer
 - 🌱 DevOps, Cloud Architect, Cloud Security
 - 💞️ I available for collaboration on small projects
